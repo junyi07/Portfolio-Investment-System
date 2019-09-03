@@ -16,7 +16,7 @@ pylint = 2.3.1
 ```
 # Details
 ## Final Result
-implemented a simulation trade on JoinQuant platform from Janurary 2015 to December 2019 and got a simulation return average 44% higher than the benchmark.
+implemented a simulation trade on JoinQuant platform from Janurary 2015 to December 2015 and got a simulation return average 44% higher than the benchmark.
 
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/Result.png)
 
@@ -26,7 +26,8 @@ implemented a simulation trade on JoinQuant platform from Janurary 2015 to Decem
 ## ROC and AUC
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/ROC.png)
 
-## Forecast for Chinese index
+## Forecast for Chinese Stock
+forecast Chinese stock from Janurary 2015 to December 2015 based on IHWF model proposed in my published paper.
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/Forecast.png)
 
 ## Select factors by Random Forest
