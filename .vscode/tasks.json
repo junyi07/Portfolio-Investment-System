@@ -1,0 +1,12 @@
+{
+    "version": "0.1.0",
+    "command": "cmd",
+    "args": [
+    "/c", "start", "cmd","/c",
+    "vsc_tasks_java.bat",
+    "hide:true",            //设为hide:true则会清除编译信息，否则将保留编译信息
+    "${fileDirname}", 
+    "${fileBasename}",
+    "javac -Xlint:unchecked -encoding UTF-8 -g"     //javac默认部分编译参数
+    ]
+}
