@@ -14,22 +14,22 @@ scikit-learn = 0.19.1
 matplotlib = 2.1.1
 pylint = 2.3.1
 ```
-
-### Final Result
-implemented a simulation trade on JoinQuant platform from Janurary 2015 to December 2019 and got a simulation return average 34% higher than the benchmark.
+# Details
+## Final Result
+implemented a simulation trade on JoinQuant platform from Janurary 2015 to December 2019 and got a simulation return average 44% higher than the benchmark.
 
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/Result.png)
 
-#### Stop-loss strategy
+## Stop-loss strategy
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/stopLoss.png)
 
-#### ROC and AUC
+## ROC and AUC
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/ROC.png)
 
-#### Forecast for Chinese index
+## Forecast for Chinese index
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/Forecast.png)
 
-#### Select factors by Random Forest
+## Select factors by Random Forest
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/FactSelect.png)
 
 ## EMD original signal
