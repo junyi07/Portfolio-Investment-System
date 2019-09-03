@@ -1,7 +1,11 @@
 # Portfolio-Investment-System
 an intelligent portfolio investment system for Chinese stock based on machine learning and fuzzy time series.
 
-#Dependencies
+# Indroduction
+This project is an intelligent portfolio investment system for Chinese stock. Make use of Random Forest to select efficient factors, find the portfolio investment combined with Adaboost, Random Forest and SVM, and trade on JoinQuant platform with stop-loss strategy based on fuzzy time series model.
+
+
+# Dependencies
 ```
 pandas = 0.21.0
 numpy = 1.13.3
