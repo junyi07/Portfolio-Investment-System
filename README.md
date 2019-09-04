@@ -21,6 +21,7 @@ Implemented a simulation trade on JoinQuant platform from Janurary 2015 to Decem
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/Result.png)
 
 ## Stop-loss strategy
+
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/stopLoss.png)
 
 ## ROC and AUC
