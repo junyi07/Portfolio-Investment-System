@@ -35,7 +35,7 @@ Forecast Chinese stock from Janurary 2015 to December 2015 based on IHWF model p
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/Forecast.png)
 
 ## Select stock factors by Random Forest
-Select 50 stock factors that the importance score more than 0.01 based on Radnom Forest.
+Select 50 stock factors that the importance scores more than 0.01 based on Radnom Forest.
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/FactSelect.png)
 
 
