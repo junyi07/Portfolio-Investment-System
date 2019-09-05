@@ -21,18 +21,21 @@ Implemented a simulation trade on JoinQuant platform from Janurary 2015 to Decem
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/Result.png)
 
 ## Stop-loss strategy
+Developed a stop-loss strategy by forecasting stock index based on IHWF(Intelligent Hybrid
+Weighted Fuzzy) proposed in my published paper.
 
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/stopLoss.png)
 
 ## ROC and AUC
+ROC and AUC of Different Portfolios
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/ROC.png)
 
 ## Forecast for Chinese Stock
-forecast Chinese stock from Janurary 2015 to December 2015 based on IHWF model proposed in my published paper.
+Forecast Chinese stock from Janurary 2015 to December 2015 based on IHWF model proposed in my published paper.
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/Forecast.png)
 
-## Select factors by Random Forest
+## Select stock factors by Random Forest
+Select 50 stock factors that the importance score more than 0.01 based on Radnom Forest.
 ![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/FactSelect.png)
 
-## EMD
-![image](https://github.com/Junyihe1107/Portfolio-Investment-System/blob/master/image/EMD.png)
+
