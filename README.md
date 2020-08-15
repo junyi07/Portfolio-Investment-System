@@ -2,7 +2,7 @@
 An intelligent portfolio investment system for Chinese stock based on machine learning and fuzzy time series.
 
 # Indroduction
-This project is an intelligent portfolio investment system for Chinese stock. Firstly, we utilized the classification score of Random Forest to select efficient stock factors, and trained and forecasted the portfolio investment based on machine learning models (Adaboost, Random Forest and SVM). Then ran our portfolio strategies on JoinQuant platform. Eventually we got a simulation return average 44% higher than the benchmark.
+This project is an intelligent portfolio investment system for Chinese stock. Firstly, we utilized the classification score of Random Forest to select efficient stock factors, and trained and forecasted the portfolio investment based on machine learning models (Adaboost, Random Forest and SVM). Then ran our portfolio strategies on JoinQuant platform. Eventually we got a simulation return average 44% higher than the benchmark, which is very high performance.
 
 It's worth mentioning that I designed an efficient stop-loss strategy by forecasting stock index based on Intelligent Hybrid Weighted Fuzzy (IHWF) time series model proposed in [my published paper](https://link.springer.com/chapter/10.1007/978-3-319-95786-9_8).
 
